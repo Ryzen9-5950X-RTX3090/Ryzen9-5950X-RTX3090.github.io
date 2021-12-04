@@ -1,4 +1,25 @@
-New designs
-New pages
-New improvements
-New visual changes
+import github
+import 1000 Years Later
+import changes
+
+
+def(changes, text)
+get.changes(changes)
+display.changes(text)
+
+if changes = text
+insert get.changes to 1000YearsLater_3rdYear_WebsiteUpdate
+else:
+insert get.changes to 1000YearsLater_UnderConstruction
+
+
+def get.changes
+
+| New designs
+| New pages
+| New improvements
+| New visual changes
+
+get.changes.exit
+
+export(changes, text)
