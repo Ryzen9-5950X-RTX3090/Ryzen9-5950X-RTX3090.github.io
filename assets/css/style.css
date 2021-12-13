@@ -2,6 +2,7 @@
 * Template Name: Regna - v4.7.0
 * Bootstrap version: 5.1.3
 * Bootstrap icons version: 1.7.2
+* Swift mobile touch UI version: 7.3.2
 * Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
